@@ -38,4 +38,9 @@ An end-to-end Machine Learning desktop application with a graphical user interfa
    pip install customtkinter pandas numpy scikit-learn matplotlib seaborn
    python ml_desktop_application.ipynb
 
+<img width="821" height="632" alt="image" src="https://github.com/user-attachments/assets/6b239fc6-aa9f-4c03-9c88-667de1d48068" />
+<img width="797" height="630" alt="image" src="https://github.com/user-attachments/assets/0ba8aa92-27fb-48bb-ac0a-88ebec399076" />
+<img width="797" height="635" alt="image" src="https://github.com/user-attachments/assets/16cc17b5-86e3-4a60-aeea-2a5144661ca6" />
+   
+
 **By:** [Peter Raafat](https://github.com/PeterRaafat456)
